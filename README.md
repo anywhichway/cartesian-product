@@ -36,7 +36,7 @@ MIT. See [LICENSE](LICENSE) for details.
 
 # Release History (Reverse Chronological Order)
 
-2023-02-06 v1.0.1 Updated browser build.
+2023-02-06 v1.0.2 Updated browser build.
 
 2023-02-06 v1.0.0 Initial release
 
