@@ -36,6 +36,8 @@ MIT. See [LICENSE](LICENSE) for details.
 
 # Release History (Reverse Chronological Order)
 
+2023-02-06 v1.0.4 Updated dist build to output cjs.
+
 2023-02-06 v1.0.3 Fixed issues with .gitignore.
 
 2023-02-06 v1.0.2 Updated browser build.

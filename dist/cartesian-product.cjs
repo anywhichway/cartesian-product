@@ -52,4 +52,4 @@ function $4fa36e821943b400$export$2e2bcd8739ae039(...arrays) {
 }
 
 
-//# sourceMappingURL=cartesian-product.js.map
+//# sourceMappingURL=cartesian-product.cjs.map
