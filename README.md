@@ -1,4 +1,4 @@
-# generated-cartesian
+# cartesian-product
 
 A generator function for Cartesian product.
 
