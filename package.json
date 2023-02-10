@@ -1,11 +1,11 @@
 {
   "name": "@anywhichway/cartesian-product",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A Javascript generator for a Cartesian product of arrays",
   "type": "module",
   "source": "./src/index.js",
-  "module": "./index.js",
   "browser": "./dist/cartesian-product.cjs",
+  "main": "./index.js",
   "scripts": {
     "build": "parcel build src/index.js",
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest --collectCoverage --coverageDirectory=coverage"
